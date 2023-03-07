@@ -1,0 +1,6 @@
+com\wave\talend\components\processor\COSOutputProcessor.class
+com\wave\talend\components\processor\COSOutputProcessorConfiguration.class
+com\wave\talend\components\processor\COSUtils.class
+com\wave\talend\components\package-info.class
+com\wave\talend\components\service\WaveComponentService.class
+com\wave\talend\components\processor\COSOutputProcessor$1.class

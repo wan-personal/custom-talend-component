@@ -1,0 +1,28 @@
+//component_start:COSOutput
+
+== COSOutput
+
+TODO fill the documentation for this processor
+
+//configuration_start
+
+=== Configuration
+
+[cols="d,d,m,a,e,d",options="header"]
+|===
+|Display Name|Description|Default Value|Enabled If|Configuration Path|Configuration Type
+|configuration|TODO fill the documentation for this configuration|-|Always enabled|configuration|-
+|batchCnt|The amount for one batch|0|Always enabled|configuration.batchCnt|-
+|bucketName|The bucket of tencent cos|-|Always enabled|configuration.bucketName|-
+|keyName|The key of tencent cos|-|Always enabled|configuration.keyName|-
+|owFlag|Overwrite Flag: overwrite object or not|-|Always enabled|configuration.owFlag|-
+|regionName|The region of tencent cos|-|Always enabled|configuration.regionName|-
+|secretID|The secretID of tencent cos services|-|Always enabled|configuration.secretID|-
+|secretKey|The secretKey of tencent cos services|-|Always enabled|configuration.secretKey|-
+|wordSeparator|The separator for words|-|Always enabled|configuration.wordSeparator|-
+|===
+
+//configuration_end
+
+//component_end:COSOutput
+
